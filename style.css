@@ -140,7 +140,7 @@ header button {
 .meal-header .random {
     position: absolute;
     top: 1rem;
-    background-color: #fff;
+    background-color: black;
     padding: 0.25rem 1rem;
     border-top-right-radius: 3px;
     border-bottom-right-radius: 3px;
